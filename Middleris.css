@@ -18,6 +18,6 @@
     border: solid 2px rgb(0, 0, 0);
     width: 25px;
     height: 25px;
-    background: burlywood;
+    background: rgb(201, 118, 209);
     transition: 0.1s linear;
 }
